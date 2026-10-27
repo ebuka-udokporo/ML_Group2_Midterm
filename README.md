@@ -1,1 +1,2 @@
 # ML_Group2_Midterm
+This project uses the Kaggle Heart Attack Prediction dataset containing 8,763 records. The dataset was split into 70% training and 30% testing data. Preprocessing was performed using Python and scikit-learn, including categorical encoding, feature scaling, and class balancing. The resulting cleaned training dataset contains 7,874 rows and 55 columns. The Jupyter notebook documents the preprocessing steps and visualizes the results.
